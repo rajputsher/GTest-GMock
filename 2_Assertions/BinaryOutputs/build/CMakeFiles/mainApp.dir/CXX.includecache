@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/2_Assertions/Ex1/LibraryCode.hpp
+vector
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/2_Assertions/Ex1/main.cpp
+iostream
+-
+LibraryCode.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/2_Assertions/Ex1/LibraryCode.hpp
+vector
+-
+
