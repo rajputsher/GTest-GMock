@@ -45,6 +45,7 @@ In C++ this means writing tests for methods or functions. Tests only examine cod
     Our system has been working in production for a long time, but we need to add a new feature or address a deficiency. So we modify the code and roll out a new version, and something else breaks. If we’re lucky, it’s easy to figure out. If not, cancel weekend plans.
 
     Our first line of defense against regressions is unit tests. Creating targeted routines that verify discrete behavior, and then running them on every build helps ensure that a new feature doesn’t come with a new bug.
+- Unit tests are useful for regresssion testing, meaning that when we make a change, they help prevent the introduction of new bugs.
 - To get early feedback
 
 ### Unit Test Guidlines
