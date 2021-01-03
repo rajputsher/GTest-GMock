@@ -80,7 +80,10 @@ testRunner_EXTERNAL_OBJECTS =
 testRunner: CMakeFiles/testRunner.dir/testRunner.cpp.o
 testRunner: CMakeFiles/testRunner.dir/build.make
 testRunner: libcommonLibrary.a
-testRunner: /usr/lib/x86_64-linux-gnu/libgtest.a
+testRunner: /usr/lib/libgtest.a
+testRunner: /usr/lib/libgtest_main.a
+testRunner: /usr/lib/libgmock.a
+testRunner: /usr/lib/libgmock_main.a
 testRunner: CMakeFiles/testRunner.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/3_TestFixtures/ParameterizedTests/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable testRunner"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/testRunner.dir/link.txt --verbose=$(VERBOSE)

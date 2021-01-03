@@ -59,7 +59,7 @@ class ValidatorTupleFixture: public testing::TestWithParam<std::tuple<int,bool>>
 {
     public:
     protected:
-    Validator mValidator{5,10};
+        Validator mValidator{5,10};
 };
 
 TEST_P(ValidatorTupleFixture,TestInRange)
