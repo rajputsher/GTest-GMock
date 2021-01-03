@@ -1,0 +1,4 @@
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/3_TestFixtures/ParameterizedTests/build/CMakeFiles/rebuild_cache.dir
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/3_TestFixtures/ParameterizedTests/build/CMakeFiles/testRunner.dir
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/3_TestFixtures/ParameterizedTests/build/CMakeFiles/edit_cache.dir
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/3_TestFixtures/ParameterizedTests/build/CMakeFiles/commonLibrary.dir
