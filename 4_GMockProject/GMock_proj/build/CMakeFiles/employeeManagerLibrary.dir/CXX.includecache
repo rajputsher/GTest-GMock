@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/Employee.hpp
+string
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/EmployeeManager.cpp
+EmployeeManager.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/EmployeeManager.hpp
+map
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/EmployeeManager.hpp
+Employee.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/Employee.hpp
+IDatabaseConnection.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/IDatabaseConnection.hpp
+map
+-
+vector
+-
+string
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/IDatabaseConnection.hpp
+string
+-
+vector
+-
+Employee.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/Employee.hpp
+

@@ -105,6 +105,7 @@ EXPECT_EQ(105, somePtr->age());
 
 ### GMock
 
+
 ---
 
 ## How To Use

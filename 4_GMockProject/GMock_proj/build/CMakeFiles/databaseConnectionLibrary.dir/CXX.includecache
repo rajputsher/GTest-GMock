@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/Employee.hpp
+string
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/IDatabaseConnection.cpp
+IDatabaseConnection.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/IDatabaseConnection.hpp
+iostream
+-
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/IDatabaseConnection.hpp
+string
+-
+vector
+-
+Employee.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/Employee.hpp
+
