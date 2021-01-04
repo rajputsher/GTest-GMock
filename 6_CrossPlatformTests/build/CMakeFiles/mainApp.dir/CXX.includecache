@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/LibraryCode.hpp
+
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/main.cpp
+iostream
+-
+LibraryCode.hpp
+/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/LibraryCode.hpp
+
