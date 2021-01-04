@@ -1,0 +1,1 @@
+g++ -o myExeWithOutCmake main.cpp -lgtest -lpthread -std=c++11
