@@ -1,5 +1,0 @@
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/1_GTestProject/build/CMakeFiles/rebuild_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/1_GTestProject/build/CMakeFiles/testRunner.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/1_GTestProject/build/CMakeFiles/mainApp.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/1_GTestProject/build/CMakeFiles/edit_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/1_GTestProject/build/CMakeFiles/commonLibrary.dir

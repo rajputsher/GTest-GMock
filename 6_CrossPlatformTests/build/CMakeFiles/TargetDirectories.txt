@@ -1,5 +1,0 @@
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/build/CMakeFiles/rebuild_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/build/CMakeFiles/unitTestRunner.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/build/CMakeFiles/mainApp.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/build/CMakeFiles/edit_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/6_CrossPlatformTests/build/CMakeFiles/commonLibrary.dir

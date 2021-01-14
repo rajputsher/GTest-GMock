@@ -1,6 +1,0 @@
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/rebuild_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/edit_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/testRunner.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/mainApp.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/employeeManagerLibrary.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/4_GMockProject/GMock_proj/build/CMakeFiles/databaseConnectionLibrary.dir

@@ -1,6 +1,0 @@
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/rebuild_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/edit_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/testRunner.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/mainApp.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/employeeManagerLibrary.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/gmock_callback/build/CMakeFiles/databaseConnectionLibrary.dir

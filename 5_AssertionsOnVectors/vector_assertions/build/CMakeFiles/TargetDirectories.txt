@@ -1,5 +1,0 @@
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/vector_assertions/build/CMakeFiles/rebuild_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/vector_assertions/build/CMakeFiles/testRunner.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/vector_assertions/build/CMakeFiles/mainApp.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/vector_assertions/build/CMakeFiles/edit_cache.dir
-/home/shivsayali/Shivaram/onlineCourses/GTest-GMock/5_AssertionsOnVectors/vector_assertions/build/CMakeFiles/commonLibrary.dir
